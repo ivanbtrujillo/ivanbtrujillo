@@ -1,6 +1,6 @@
 # Iván Trujillo
 
-Hey folks 👋!
+Hey folks 👋
 
 ![Ivan Trujillo](https://github.com/ivanbtrujillo/ivanbtrujillo/raw/master/img/github-banner.png)
 
