@@ -1,9 +1,5 @@
 # Iván Trujillo
 
-Hey folks 👋
-
-![Ivan Trujillo](https://github.com/ivanbtrujillo/ivanbtrujillo/raw/master/img/github-banner.png)
-
 I'm a developer focused on Javascript and it's ecosystem but I also enjoy learning other technologies and programming languages.
 
 I love to learn, follow good practices and add value to the teams I work with.
